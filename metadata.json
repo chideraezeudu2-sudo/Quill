@@ -1,0 +1,6 @@
+{
+  "name": "Quill",
+  "description": "An AI-powered documentation platform that turns code into human-readable docs, visualizes codebase health, and provides intelligent architectural insights.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
